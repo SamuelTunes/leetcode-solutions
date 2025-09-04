@@ -16,7 +16,9 @@ O objetivo é praticar algoritmos e estruturas de dados, documentar o raciocíni
 ## 📂 Estrutura
 Os arquivos seguem o padrão:
 
+```
 ID-nome-do-problema.c
+```
 
 Exemplo:
   - 0001-two-sum.c
