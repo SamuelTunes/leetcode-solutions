@@ -17,7 +17,7 @@ O objetivo é praticar algoritmos e estruturas de dados, documentar o raciocíni
 Os arquivos seguem o padrão:
 
 ```
-ID-nome-do-problema.c
+<ID>-<nome-do-problema>.c
 ```
 
 Exemplo:
