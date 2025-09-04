@@ -16,12 +16,14 @@ O objetivo é praticar algoritmos e estruturas de dados, documentar o raciocíni
 ## 📂 Estrutura
 Os arquivos seguem o padrão:
 
-<ID>-<nome-do-problema>.c
+```c
+ID-nome-do-problema.c
+```c
 
 Exemplo:
-  0001-two-sum.c
-  0053-maximum-subarray.c
-  0344-reverse-string.c
+  - 0001-two-sum.c
+  - 0053-maximum-subarray.c
+  - 0344-reverse-string.c
 
 
   Cada arquivo contém:
